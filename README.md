@@ -1,6 +1,6 @@
 # Minecraft_2D_XYZ
 
-![Minecraft 2D]([https://media.moddb.com/images/games/1/16/15595/dead.jpg](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/02/guia-todos-trucos-consejos-minecraft.jpg?tf=3840x))
+![Minecraft 2D](https://assets-prd.ignimgs.com/2021/12/14/minecraft-1639513933156.jpg)
 
 ## Description
 
@@ -34,7 +34,7 @@ Dentro del videojuego encontraras una lista de comandos, para iniciar el juego t
 
 Inside the game you'll find a list of commands, to start the game you will have to type **init**, if you want to exit **exit**. After that, the **help** command will tell you which commands are available such as **top**, **down**, **right**, **left**, **extract** or * *destroy**. It is a simple game to understand and fun to pass the time in short-term times.
 
-[add img references]
+![COlours table](images/gameplay.png)
 
 
 ## COLOURS TABLE
